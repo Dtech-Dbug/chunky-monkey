@@ -1,0 +1,23 @@
+{
+  "name": "chunky-monkey",
+  "version": "1.0.0",
+  "description": "Module to split an array and return a new multi-dimensional array by grouping the original array elements in a specified size.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dtech-Dbug/chunky-monkey.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dtech-Dbug/chunky-monkey/issues"
+  },
+  "homepage": "https://github.com/Dtech-Dbug/chunky-monkey#readme",
+  "dependencies": {
+    "jest": "^27.4.3"
+  }
+}
