@@ -1,4 +1,6 @@
 # chunky-monkey
+Module to split an array and return a new multi-dimensional array by grouping the original array elements in a specified size.
+
 - **chunkyMonkey:** When given an array and a size it will return a new multi-dimensional array by grouping the original array elements in a specified size.
 
 # Usage
